@@ -6,6 +6,7 @@ The name of the game is Petals Around the Rose, and that name is significant. Yo
 
 Warning: spoler in script content! Run the script, you are given an answer after every roll, try to figure out the pattern and guess the correct answer for the next roll.
 ```
+curl https://raw.githubusercontent.com/zocoi/Petals-Around-the-Rose/master/roll.rb
 ruby roll.rb
 ```
 
