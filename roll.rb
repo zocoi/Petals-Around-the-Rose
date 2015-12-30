@@ -12,13 +12,7 @@ end
 
 def calculate_answer(dices)
   answer = dices.map do |num|
-    if num == 3
-      2
-    elsif num == 5
-      4
-    else
-      0
-    end
+    if num == 3 || num == 5 then num - 1 else 0 end
   end
   answer.inject(:+)
 end
@@ -54,16 +48,3 @@ while correct_guess_count < 6 do
   end
   gets.chomp
 end
-
-# puts "How many dice do you want to roll?"
-# roll = gets.chomp
-
-
-
-
-# draw_dice_face(1) # 3
-# draw_dice_face(2) # 4
-# draw_dice_face(3) # 5
-# draw_dice_face(4) # 6
-# draw_dice_face(5) # 1
-# draw_dice_face(6)
