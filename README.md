@@ -4,7 +4,10 @@ __Petals Around the Rose__ brain teaser
 
 The name of the game is Petals Around the Rose, and that name is significant. You can only be told that much. You can also be told that every answer is zero or an even number. You can also be told the answer for every throw of the dice that are used in the game. And that's all the information you get.
 
-Warning: spoler in script content! Run the script, you are given an answer after every roll, try to figure out the pattern and guess the correct answer for the next roll.
+Spoiler Warning: try the game without reading roll script! 
+
+Run the script, you are given an answer after every roll, try to figure out the pattern and guess the correct answer for the next roll.
+
 ```
 curl https://raw.githubusercontent.com/zocoi/Petals-Around-the-Rose/master/roll.rb
 ruby roll.rb
