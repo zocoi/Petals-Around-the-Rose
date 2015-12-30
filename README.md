@@ -1,6 +1,6 @@
 # Petals-Around-the-Rose
 
-Petals Around the Rose
+__Petals Around the Rose__ brain teaser
 
 The name of the game is Petals Around the Rose, and that name is significant. You can only be told that much. You can also be told that every answer is zero or an even number. You can also be told the answer for every throw of the dice that are used in the game. And that's all the information you get.
 
